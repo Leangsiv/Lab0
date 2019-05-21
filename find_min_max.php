@@ -1,8 +1,4 @@
 <?php
-
-	$arr[10] = {1,2,3,4,5,6,7,8,9,10};
-	echo $arr[1];
-
 	echo "<b style='color:red;'>Finding Max and Min value from an array without using the built-in function (max and min).</b>"."<br>";
 	$arr = array(1,2,3,4,5,6,7,8,9,10);
 	$max = $arr[0];
@@ -18,5 +14,4 @@
 	echo "Max = ".$max."<br>";
 	echo "Min = ".$min."<br>";
 	
-
 ?>
